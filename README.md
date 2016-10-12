@@ -1,4 +1,4 @@
-DME
+README
 
 The attached python files demonstrate the requirements for a Coding Assesment from gaikai.
 This package should complement my existing application documentation for a Site Reliability Role in their Berlin office.
